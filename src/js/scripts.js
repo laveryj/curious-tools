@@ -20,6 +20,8 @@ document.addEventListener("DOMContentLoaded", function () {
     "howItWorks",
     "views",
     "calculator",
+    "welfareAssessments",
+    "assessmentCount"
   ];
 
   sections.forEach((section) => {
