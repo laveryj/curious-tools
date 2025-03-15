@@ -21,7 +21,8 @@ document.addEventListener("DOMContentLoaded", function () {
     "views",
     "calculator",
     "welfareAssessments",
-    "assessmentCount"
+    "assessmentCount",
+    "toolsHeader",
   ];
 
   sections.forEach((section) => {
